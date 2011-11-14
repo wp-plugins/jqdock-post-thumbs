@@ -39,13 +39,13 @@ The `type` option can be set to `page`, or to the name of any custom post type.
 
 **Hide Post Titles (Since 2.0)**
 
-[jqdpostthumbs notitle="true"]
+`[jqdpostthumbs notitle="true"]`
 
 Prevent the title of the post from appearing over the thumbnail using this shortcode.
 
 **Control Order of Posts (Since 2.0)**
 
-[jqdpostthumbs order="ASC" orderby="title"]
+`[jqdpostthumbs order="ASC" orderby="title"]`
 
 Control the order in which post thumbnails are displayed using these options. The only valid choice for `order` is `ASC`;
 default is `DESC`. For `orderby`, you can choose: `none`, `ID`, `author`, `title`, `date`, `modified`, `parent`, `comment_count`,
@@ -53,32 +53,32 @@ or `menu_order`; default is `rand`.
 
 **Show Image Gallery (Since 2.0)**
 
-[jqdgallery]
+`[jqdgallery]`
 
 Show a random set of 5 image thumbnails attached to the current post, which link to the full size images.
 
 **Control Number of Thumbnails**
 
-[jqdgallery qty="10"]
+`[jqdgallery qty="10"]`
 
 Same as with post thumbnails, the `qty` option can be set to any number you like. Your page width will help you determine your
 maximum. As a point of reference, a page that is 850px wide with no sidebar looks good at `qty="14"`.
 
 **Show Images From Specific Post (Since 2.0)**
 
-[jqdgallery id="10"]
+`[jqdgallery id="10"]`
 
 Set the post ID to show images attached to a specific post/page. Defaults to the current post/page.
 
 **Hide Image Titles (Since 2.0)**
 
-[jqdgallery notitle="true"]
+`[jqdgallery notitle="true"]`
 
 Same as with post thumbnails, prevent the title of the image from appearing over the thumbnail using this shortcode.
 
 **Set Image Link Attributes (Since 2.0)**
 
-[jqdgallery target="blank" class="my-class" rel="my-rel"]
+`[jqdgallery target="blank" class="my-class" rel="my-rel"]`
 
 This may be useful if you want to combine jqDock Image Gallery with a Lightbox plugin that requires a special `class` or `rel`.
 
