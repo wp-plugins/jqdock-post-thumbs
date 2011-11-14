@@ -98,7 +98,7 @@ Documentation for jqDock can be found at: http://www.wizzud.com/jqDock/
 
 1. Upload the entire folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Insert the shortcode `[sorttablepost]` in any post or page
+1. Insert the shortcode `[jqdpostthumbs]` or `[jqdgallery]` in any post or page
 
 == Frequently Asked Questions ==
 
