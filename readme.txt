@@ -90,7 +90,7 @@ To see a live demo, visit: http://mynewsitepreview.com/jqdpostthumbs-wordpress-p
 
 **About jqDock**
 
-jqDock, which powers this WordPress plugin, is an awesome jQuery plugin developed by Roger Barrett and inspired by Isaac Rocca’s “iconDock” plugin.
+jqDock, which powers this WordPress plugin, is an awesome jQuery plugin developed by Roger Barrett and inspired by Isaac Rocca's "iconDock" plugin.
 
 Documentation for jqDock can be found at: http://www.wizzud.com/jqDock/
 
